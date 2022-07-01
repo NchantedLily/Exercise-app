@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/Fun-Facts-app/static/css/main.590c7509.css",
+    "main.js": "/Fun-Facts-app/static/js/main.67894e52.js",
+    "static/js/787.4ca390c8.chunk.js": "/Fun-Facts-app/static/js/787.4ca390c8.chunk.js",
+    "static/media/mariocoin.ogg": "/Fun-Facts-app/static/media/mariocoin.5dba30099148f7bfa075.ogg",
+    "index.html": "/Fun-Facts-app/index.html",
+    "main.590c7509.css.map": "/Fun-Facts-app/static/css/main.590c7509.css.map",
+    "main.67894e52.js.map": "/Fun-Facts-app/static/js/main.67894e52.js.map",
+    "787.4ca390c8.chunk.js.map": "/Fun-Facts-app/static/js/787.4ca390c8.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.590c7509.css",
+    "static/js/main.67894e52.js"
+  ]
+}
